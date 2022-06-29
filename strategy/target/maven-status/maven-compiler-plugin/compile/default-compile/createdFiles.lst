@@ -1,0 +1,12 @@
+com/mycompany/strategy/MallardDuck.class
+com/mycompany/strategy/FlyBehavior.class
+com/mycompany/strategy/FlyNoWay.class
+com/mycompany/strategy/Duck.class
+com/mycompany/strategy/FlyRocketPowered.class
+com/mycompany/strategy/QuackBehavior.class
+com/mycompany/strategy/Quack.class
+com/mycompany/strategy/MuteQuack.class
+com/mycompany/strategy/ModelDuck.class
+com/mycompany/strategy/Squeak.class
+com/mycompany/strategy/Strategy.class
+com/mycompany/strategy/FlyWithWings.class
